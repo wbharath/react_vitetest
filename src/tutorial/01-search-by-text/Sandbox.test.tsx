@@ -1,5 +1,4 @@
 import { render, screen } from '@testing-library/react'
-// Note: technically already available globally
 import { test, expect } from 'vitest'
 
 import Sandbox from './Sandbox'
